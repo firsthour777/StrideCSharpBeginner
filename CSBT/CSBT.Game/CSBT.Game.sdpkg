@@ -1,0 +1,35 @@
+!Package
+SerializedVersion: {Assets: 3.1.0.0}
+Meta:
+    Name: CSBT.Game
+    Version: 1.0.0
+    Authors: []
+    Owners: []
+    RootNamespace: CSharpBasics
+    Dependencies: null
+AssetFolders:
+    -   Path: !dir ../Assets
+    -   Path: !dir Effects
+ResourceFolders:
+    - !dir ../Resources
+OutputGroupDirectories: {}
+ExplicitFolders: []
+Bundles: []
+TemplateFolders: []
+RootAssets:
+    - 02c9e685-8d53-47a0-a511-9854bfb818c0:Scenes/Basics/Linear Interpolation
+    - 1b71c3af-fa47-4b3c-8caf-5b1bceb92c20:Scenes/Basics/Getting the entity
+    - 266ca337-1375-4e99-b54e-06be91de4516:Scenes/Basics/Properties
+    - 2aadbe88-efcb-433d-98f1-a95f254b4322:Scenes/Basics/Keyboard input
+    - 2d92e4aa-8525-43c4-b5b5-382d1d4fa55f:Scenes/Basics/Child entities
+    - 4215a1b4-bfa9-4d73-8b58-b235c652a846:Scenes/Basics/Adding a component
+    - 56eb6f02-bbaf-459f-a79f-8ad428f124e2:Scenes/Basics/DeltaTime
+    - 706adfb5-c09b-4618-aa4b-362e2b26c0f0:Scenes/Basics/Loading content
+    - 79af0b55-a70f-4c7a-8f5b-967d55661736:StrideUILibrary
+    - 7fdd77c1-6743-4983-866f-0e08bb1aa38b:Scenes/Basics/Getting a component
+    - 8a8daf08-9097-4f03-9dd0-3c22143126fc:Scenes/Basics/Removing entities
+    - a793b508-0ec1-4014-98fe-9f346cddb76d:Scenes/Basics/Virtual buttons
+    - b5f5e94b-86f2-4f58-a690-fb94a1aaa06b:Scenes/Basics/Instantiating prefabs
+    - bc1e8c08-f5c2-410f-ac2e-5f3d93cad5ba:Scenes/Basics/Mouse input
+    - bd7f554d-7444-4a55-a5fd-5cbd22307c04:Scenes/Basics/Cloning entities
+    - ff8d2e2a-c04b-49c7-97a7-d7e2532e81fc:Scenes/Basics/TransformPosition

@@ -1,0 +1,11 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 16
+VisualStudioVersion = 16.0.0.0
+MinimumVisualStudioVersion = 16.0.0.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSBT.Windows", "CSBT.Windows\CSBT.Windows.csproj", "{0994C2BC-28FA-432D-AFCC-A613ACFB6401}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSBT.Game", "CSBT.Game\CSBT.Game.csproj", "{32DAB030-B8A5-4C49-9375-8E64B00C4570}"
+EndProject
+Global
+EndGlobal

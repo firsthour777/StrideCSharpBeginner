@@ -1,0 +1,8 @@
+!Texture
+Id: 33f89336-ad1a-4809-870c-52f91360de76
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file ../../Resources/Textures/wood_table_tex_Spe.dds
+IsCompressed: false
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
